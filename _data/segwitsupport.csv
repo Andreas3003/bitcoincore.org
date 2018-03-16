@@ -135,6 +135,7 @@ p2pool,https://github.com/p2pool/p2pool,wip,mining software,
 Parity Bitcoin,https://github.com/paritytech/parity-bitcoin,ready,full node,
 Paxful,https://paxful.com/,ready,P2P Exchange,
 Paymium,https://paymium.com/,planned,exchange,
+PINT, http://bitfia.io/,planned,wallet,
 Purse.io,http://Purse.io,ready,e-commerce,wallet
 pycoin,https://github.com/richardkiss/pycoin,ready,library,
 python-bitcoinlib,https://github.com/petertodd/python-bitcoinlib,wip,library,
